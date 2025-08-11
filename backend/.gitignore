@@ -1,0 +1,15 @@
+# Ignore build outputs
+/target/
+.mvn/
+*.log
+
+# IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
